@@ -1,5 +1,12 @@
 # mermaid
 
+## ER図（Mermaid）
+
+<details>
+<summary>ER図を表示（クリックで展開）</summary>
+
+```mermaid
+
 erDiagram
   administrators {
     INTEGER id PK "ID"
